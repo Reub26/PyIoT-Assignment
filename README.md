@@ -9,4 +9,4 @@ School assignment for "Python for Internet of Things" project where raspberry pi
 
 # Installation
 - Download python 3.7 and later
-- Install required python libraries with code(pip3 install requirements.txt)
+- Install required python libraries with pip3 install requirements.txt
